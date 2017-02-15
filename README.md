@@ -41,3 +41,5 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+Also, checkout a running implementation at [Sample App](https://cryptic-thicket-41484.herokuapp.com)
+using email "example@railstutorial.org" and password "foobar".
